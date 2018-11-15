@@ -1,11 +1,18 @@
-### This is the online replication package for the ICPC 2018 Technical Research paper:
+ This is the online replication package for the ICPC 2018 Technical Research paper:
 
 Sarah Fakhoury; Yuzhan Ma; Venera Arnaoudova; Olusola Adesope 
 **The Effect of Poor Source Code Lexicon on Developers’ Cognitive Load** (Inproceeding) 
 Proceedings of the International Conference on Program Comprehension (ICPC), pp. 286–296, 2018.
 
-### and the Empirical Software Engineering (EMSE) special issue extension of the ICPC 2018 paper.
+and the Empirical Software Engineering (EMSE) special issue extension of the ICPC 2018 paper.
 
+Sarah Fakhoury; Devjeet Roy; Yuzhan Ma; Venera Arnaoudova; Olusola Adesope 
+**TBD**
+
+
+This replication package includes the code snippets used for control group and three treatment groups (LA, Structural, LA & Structural). 
+
+---
 
 **The main contributions with respect to the previous work are as follows:**
 
@@ -17,4 +24,4 @@ Proceedings of the International Conference on Program Comprehension (ICPC), pp.
 6. **RQ8: An assessment of the consistency of self-reported measures with cognitive load and eye tracking data.**  We use answers from the post analysis survey to determine the self-reported difficulty rating of each task. We also calculate the average Oxy and fixation duration per participant task, and perform a pairwise test for correlation between the three metrics. 
 
 
-### This replication package includes the code snippets used for control group and three treatment groups (LA, Structural, LA & Structural). 
+
