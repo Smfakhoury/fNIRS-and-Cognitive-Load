@@ -1,9 +1,7 @@
 ### This is the online replication package for the ICPC 2018 Technical Research paper:
 
 Sarah Fakhoury; Yuzhan Ma; Venera Arnaoudova; Olusola Adesope 
-
 **The Effect of Poor Source Code Lexicon on Developers’ Cognitive Load** 
-
 In Proceedings of the International Conference on Program Comprehension (ICPC), pp. 286–296, 2018.
 
 ### and the Empirical Software Engineering (EMSE) special issue extension of the ICPC 2018 paper.
